@@ -1,4 +1,4 @@
-OBJ = main.c
+OBJ = laba_3.c
 CFLAGS = -Wall -std=c99
 
 all: bin
